@@ -2,9 +2,11 @@
 
 ## About Me
 **Name**: Trevan Nguyen
+
 **Email**: ttn077@ucsd.edu  
 
 **Section**: B06
+
 **Mentor**: Zhiting Hu
 
 ---
